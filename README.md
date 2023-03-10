@@ -8,7 +8,25 @@
 <p dir="auto"><br></p>
 
 
+<img src="pan_card_tampering/image/Screenshot (242).png"  />
+<img src="pan_card_tampering/image/Screenshot (243).png"  />
+<img src="pan_card_tampering/image/Screenshot (244).png"  />
+<img src="pan_card_tampering/image/Screenshot (245).png"  />
+<img src="pan_card_tampering/image/Screenshot (246).png"  />
+<img src="pan_card_tampering/image/Screenshot (247).png"  />
+<img src="pan_card_tampering/image/Screenshot (248).png"  />
+<img src="pan_card_tampering/image/Screenshot (249).png"  />
+<img src="pan_card_tampering/image/Screenshot (250).png"  />
+<img src="pan_card_tampering/image/Screenshot (251).png"  />
 
+<h3>Steps to run this project</h3>
+<br>
+<h3>NOTE: YOU MUST HAVE ANACONDA INSTALLED ON YOUR COMPUTER</h3>
+<pre>Open Anaconda Prompt then nevigate to folder where you have clone the projecgt and install the required packages using the following command:
+
+    conda install --file requirements. txt
+    
+Open anaconda and launch jupyter notebook.</pre>
 
 
 
